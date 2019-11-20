@@ -1,0 +1,30 @@
+header * 
+{     
+
+
+	display: inline;
+	background: #C9C19F;
+	
+}
+
+nav a {
+  	padding: 10px 10px 10px 10px;
+  	text-decoration: none;
+  	border: 1px #EDF7D2 solid;
+  	color: #EFEFEF;
+
+ }
+
+  nav a:hover {
+
+  border: 1px #5B5B5B solid;
+
+ }
+
+  
+
+ 
+ body
+ { background-color: #C9C19F
+
+   }
